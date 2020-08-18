@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="IbN1">Number 1 ;</string>
+    <string name="IbNum2">Number 2 :</string>
+    <string name="btnOk">Ok</string>
+    <string name="IbSum">Sum</string>
+    <string name="btmPlus">+</string>
+    <string name="btmSub">-</string>
+    <string name="btmMul">x</string>
+    <string name="btmDivision">/</string>
+    <string name="to">To</string>
+    <string name="hello_world">Hello world</string>
+    <string name="openning_calculator">openning calculator ....</string>
+</resources>
